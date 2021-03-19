@@ -23,6 +23,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+Screen Sign In/ Home:
 <img src='https://media.giphy.com/media/gH4i3vUJ8yQEtjDzKP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Uploading /Posting Image from Photo Library
 <img src='https://media.giphy.com/media/QN0VyEjQoITL6Vejpx/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+App Icon & Lauch Screen /new User Sign up:
+<img src='https://media.giphy.com/media/UMsZM9OhJuOcQw7pAh/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
